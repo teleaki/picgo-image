@@ -1,2 +1,2 @@
-# picgo-pic-bed
-pic-bed using picgo
+# picgo-image
+image-bed using picgo
